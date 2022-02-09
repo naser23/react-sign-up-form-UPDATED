@@ -1,0 +1,69 @@
+@media (min-width: 567.98px) {
+  #container {
+    .hero-img {
+      height: 30vh;
+    }
+  }
+}
+
+@media (min-width: 991.98px) {
+  #root {
+    #container {
+      display: flex;
+
+      .hero-img {
+        width: 40%;
+        height: 100%;
+        background-image: url("../images/game-pass.jpg");
+        background-color: #545452;
+        background-size: contain;
+      }
+
+      .right-side {
+        display: flex;
+        flex-direction: column;
+
+        .top-header {
+          width: 70%;
+          display: flex;
+          flex-direction: column;
+          justify-content: end;
+          padding: 1rem 2rem;
+          padding-top: 5rem;
+
+          & h3 {
+            font-size: 1.5rem;
+          }
+
+          & p {
+            font-size: 1.25rem;
+          }
+        }
+
+        .form-area {
+          padding: 2rem;
+
+          & h3 {
+            font-size: 1.5rem;
+          }
+
+          .form-space {
+            width: 60%;
+            display: flex;
+            flex-direction: row;
+            flex-wrap: wrap;
+            gap: 2rem;
+
+            .form-style {
+              width: 40%;
+            }
+          }
+        }
+
+        .finish-sign-up {
+          padding: 2rem 2rem;
+        }
+      }
+    }
+  }
+}
