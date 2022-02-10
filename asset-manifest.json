@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sign-up-form-UPDATED/static/css/main.e6de6e99.css",
+    "main.js": "/sign-up-form-UPDATED/static/js/main.a11f683b.js",
+    "static/media/game-pass.jpg": "/sign-up-form-UPDATED/static/media/game-pass.70c95709ab93344a4bd3.jpg",
+    "static/media/game-pass-mobile.jpg": "/sign-up-form-UPDATED/static/media/game-pass-mobile.c83f23f619399c889fbb.jpg",
+    "index.html": "/sign-up-form-UPDATED/index.html",
+    "main.e6de6e99.css.map": "/sign-up-form-UPDATED/static/css/main.e6de6e99.css.map",
+    "main.a11f683b.js.map": "/sign-up-form-UPDATED/static/js/main.a11f683b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6de6e99.css",
+    "static/js/main.a11f683b.js"
+  ]
+}
